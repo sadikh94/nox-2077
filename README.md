@@ -4,7 +4,7 @@
 
 ## Where cyberpunk neon meets personal taste
 
-Nox 2077 is a handcrafted VS Code theme built on the shoulders of two excellent projects: the atmospheric cyberpunk glow of [Synthwave '2077](https://github.com/SBigz/Synthwave-2077) by [CodeSacha](https://github.com/SBigz), and the foundational retro-futurist palette of [Synthwave '84](https://github.com/robb0wen/synthwave-vscode) by [robbOwen](https://github.com/robb0wen).
+[Nox 2077](https://marketplace.visualstudio.com/items?itemName=Sadig.nox-2077) is a handcrafted VS Code theme built on the shoulders of two excellent projects: the atmospheric cyberpunk glow of [Synthwave '2077](https://github.com/SBigz/Synthwave-2077) by [CodeSacha](https://github.com/SBigz), and the foundational retro-futurist palette of [Synthwave '84](https://github.com/robb0wen/synthwave-vscode) by [robbOwen](https://github.com/robb0wen).
 
 The base was already close to perfect. What Nox 2077 adds is a personal visual language built around the [Rosé Pine Moon](https://rosepinetheme.com/) background palette — deep purple-slate tones at `#232136` instead of near-black — combined with a Tokyo Night-inspired syntax color system: warm golds for types, cyan-blues for operators, soft rose for variables, bright teal for strings. The neon glow effects from the original CSS are preserved intact.
 
