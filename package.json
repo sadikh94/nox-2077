@@ -1,0 +1,24 @@
+{
+  "name": "nox-2077",
+  "displayName": "Nox 2077",
+  "description": "Cyberpunk neon theme — Synthwave '2077 base with Rosé Pine Moon backgrounds and Tokyo Night syntax palette",
+  "version": "1.0.2",
+  "publisher": "local",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#232136",
+    "theme": "dark"
+  },
+  "engines": { "vscode": "^1.77.0" },
+  "categories": ["Themes"],
+  "keywords": ["dark", "cyberpunk", "synthwave", "neon", "tokyo night", "rose pine", "nox"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nox 2077",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nox-2077-color-theme.json"
+      }
+    ]
+  }
+}
