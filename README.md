@@ -66,7 +66,7 @@ Background tones inspired by the [Rosé Pine Moon](https://rosepinetheme.com/) p
 I am not a professional theme developer — I simply fell in love with the cyberpunk neon aesthetic of Synthwave '2077 and wanted to reshape it around my own color sensibility.
 
 ## Credits ✨
-
+ 
 - [Synthwave '2077](https://github.com/SBigz/Synthwave-2077) VS Code Theme by [CodeSacha / SBigz](https://github.com/SBigz)
 - [Synthwave '84](https://github.com/robb0wen/synthwave-vscode) VS Code Theme by [robbOwen](https://github.com/robb0wen)
 - [Cyberpunk 2077 rebuild](https://github.com/carlos18mz/Cyberpunk-2077-rebuild) VS Code Theme by [carlos18mz](https://github.com/carlos18mz)
