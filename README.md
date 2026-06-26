@@ -47,6 +47,24 @@ Nox is Latin for night — the kind of deep, electric night that exists only in 
 7. Each time you enable or disable the custom styles, VS Code will reload to apply the changes.
 8. To customize your terminal theme, install [oh my zsh!](https://github.com/ohmyzsh/ohmyzsh) and choose your desired theme!
 
+For neon glow effects, install the [Custom CSS and JS Loader extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the Marketplace — it allows injecting external styles into the editor. Before proceeding, read its documentation: on Windows, VS Code must be launched as administrator.
+Copy the file path and add it to your VSCode's settings.json file.
+
+On MacOS it might look something like the snippet below:
+
+{
+    "vscode_custom_css.imports": [
+        "file:///Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css"
+    ]
+}
+
+On Windows it might resemble:
+
+{
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css"
+    ]
+}
 
 ## Inspiration
 
