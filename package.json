@@ -2,16 +2,37 @@
   "name": "nox-2077",
   "displayName": "Nox 2077",
   "description": "Cyberpunk neon theme — Synthwave '2077 base with Rosé Pine Moon backgrounds and Tokyo Night syntax palette",
-  "version": "1.0.2",
-  "publisher": "local",
+  "version": "1.0.3",
+  "publisher": "Sadig",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#232136",
     "theme": "dark"
   },
-  "engines": { "vscode": "^1.77.0" },
-  "categories": ["Themes"],
-  "keywords": ["dark", "cyberpunk", "synthwave", "neon", "tokyo night", "rose pine", "nox"],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "cyberpunk",
+    "synthwave",
+    "neon",
+    "tokyo night",
+    "rose pine",
+    "nox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadikh94/nox-2077"
+  },
+  "homepage": "https://github.com/sadikh94/nox-2077/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/sadikh94/nox-2077/issues"
+  },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {

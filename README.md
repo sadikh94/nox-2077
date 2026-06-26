@@ -4,7 +4,7 @@
 
 ## Where cyberpunk neon meets personal taste
 
-[Nox 2077](https://marketplace.visualstudio.com/items?itemName=Sadig.nox-2077) is a handcrafted VS Code theme built on the shoulders of two excellent projects: the atmospheric cyberpunk glow of [Synthwave '2077](https://github.com/SBigz/Synthwave-2077) by [CodeSacha](https://github.com/SBigz), and the foundational retro-futurist palette of [Synthwave '84](https://github.com/robb0wen/synthwave-vscode) by [robbOwen](https://github.com/robb0wen).
+Nox 2077 is a handcrafted VS Code theme built on the shoulders of two excellent projects: the atmospheric cyberpunk glow of [Synthwave '2077](https://github.com/SBigz/Synthwave-2077) by [CodeSacha](https://github.com/SBigz), and the foundational retro-futurist palette of [Synthwave '84](https://github.com/robb0wen/synthwave-vscode) by [robbOwen](https://github.com/robb0wen).
 
 The base was already close to perfect. What Nox 2077 adds is a personal visual language built around the [Rosé Pine Moon](https://rosepinetheme.com/) background palette — deep purple-slate tones at `#232136` instead of near-black — combined with a Tokyo Night-inspired syntax color system: warm golds for types, cyan-blues for operators, soft rose for variables, bright teal for strings. The neon glow effects from the original CSS are preserved intact.
 
@@ -47,24 +47,15 @@ Nox is Latin for night — the kind of deep, electric night that exists only in 
 7. Each time you enable or disable the custom styles, VS Code will reload to apply the changes.
 8. To customize your terminal theme, install [oh my zsh!](https://github.com/ohmyzsh/ohmyzsh) and choose your desired theme!
 
-For neon glow effects, install the [Custom CSS and JS Loader extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the Marketplace — it allows injecting external styles into the editor. Before proceeding, read its documentation: on Windows, VS Code must be launched as administrator.
-Copy the file path and add it to your VSCode's settings.json file.
+For neon glow effects, install the Custom CSS and JS Loader extension from the Marketplace — it allows injecting external styles into the editor. Before proceeding, read its documentation: on Windows, VS Code must be launched as administrator. Copy the file path and add it to your VSCode's settings.json file.
 
 On MacOS it look something like the below:
 
-{
-    "vscode_custom_css.imports": [
-        "file:///Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css"
-    ]
-}
+{ "vscode_custom_css.imports": [ "file:///Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css" ] }
 
 On Windows:
 
-{
-    "vscode_custom_css.imports": [
-        "file:///C:/Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css"
-    ]
-}
+{ "vscode_custom_css.imports": [ "file:///C:/Users/ADD_YOUR_USERNAME/.vscode/extensions/sadig.nox-2077-1.0.2/custom-style.css" ] }
 
 ## Inspiration
 
@@ -86,4 +77,4 @@ This theme is a derivative work. The original Synthwave '2077 is distributed und
 
 ## Enjoy!
 
-If you enjoy the theme, please give it a ⭐️ on GitHub — it means a lot and helps others find it!
+If you enjoy the theme, please give it a ⭐️ on [GitHub](https://github.com/sadikh94/nox-2077) — it means a lot and helps others find it!
