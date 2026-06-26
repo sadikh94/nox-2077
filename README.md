@@ -50,7 +50,7 @@ Nox is Latin for night — the kind of deep, electric night that exists only in 
 For neon glow effects, install the [Custom CSS and JS Loader extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the Marketplace — it allows injecting external styles into the editor. Before proceeding, read its documentation: on Windows, VS Code must be launched as administrator.
 Copy the file path and add it to your VSCode's settings.json file.
 
-On MacOS it might look something like the snippet below:
+On MacOS it look something like the below:
 
 {
     "vscode_custom_css.imports": [
@@ -58,7 +58,7 @@ On MacOS it might look something like the snippet below:
     ]
 }
 
-On Windows it might resemble:
+On Windows:
 
 {
     "vscode_custom_css.imports": [
